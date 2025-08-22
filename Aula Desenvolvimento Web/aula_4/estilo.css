@@ -1,0 +1,37 @@
+/*seletor de elementos */
+p{
+    color: beige;
+}
+
+h1{
+    color: blanchedalmond;
+}
+
+/*Seletor de ID*/
+#lorem{
+    text-align: center;
+    color: wheat;
+}
+
+/*Seletores de classe*/
+
+.myclass{
+    border: 0.2em double darkolivegreen;
+}
+
+/*Junção de seletores*/
+
+li.myclass{
+    font-size: xx-small;
+}
+
+.newclass{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: x-large;
+}
+
+.teste-cores{
+    padding: 1%;
+    background-color: rgba(82, 223, 221,0.5) ;
+
+}
